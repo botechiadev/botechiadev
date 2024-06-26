@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm @BotechiaDev</h1>
-<h3 align="center">Coding to solve your problems!</h3>
+<header>
+<h1 align="center" id="TITLE">PORTFOLIO-PROJETOS:<strong id="user">BOTECHIADEV</span></h1>
+</header>
+  <h3 align="center">Coding to solve your problems!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=botechiadev&label=Profile%20views&color=0e75b6&style=flat" alt="botechiadev" /> </p>
 
